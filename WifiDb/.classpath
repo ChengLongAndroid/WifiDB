@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/专业软件/mysql-connector-java-5.1.27-bin.jar"/>
+	<classpathentry kind="lib" path="D:/专业软件/json-20160810.jar"/>
+	<classpathentry exported="true" kind="lib" path="I:/MyEclipse Professional 2014/plugins/com.genuitec.eclipse.j2eedt.core_11.5.0.me201311281640/data/libraryset/EE_6/javax.servlet.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://java.sun.com/javaee/6/docs/api/"/>
+			<attribute name="me-identifier" value="data/libraryset/EE_6//javax.servlet.jar"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
